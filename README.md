@@ -12,7 +12,7 @@ The official code of hyperspectral image super-resolution method
 }
 ```
 ## Testing
- You can download the pretrained model from https://www.dropbox.com/sh/jqhk2i9lzi3hjna/AAAc9iDy-nxLh4wLbGGw3iXHa?dl=0
+download the pretrained model an the test images from https://www.dropbox.com/sh/jqhk2i9lzi3hjna/AAAc9iDy-nxLh4wLbGGw3iXHa?dl=0
 ```
 python main.py --phase='test' --test_model=model_path --test_dir=image_path
 ```
